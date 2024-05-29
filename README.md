@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Luis Moreno</h1>
 <h3 align="center">A dedicated Full Stack Web Developer from California</h3>
 
-- 🔭 I’m currently Learning Python
+- 🔭 I’m currently working on [Louies-react-portfolio](https://github.com/Louie-cpu/)
+
 
 - 🌱 I’m currently learning **React,Ruby on Rails and PostGreSQL**
 
