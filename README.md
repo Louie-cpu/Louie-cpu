@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Louies-react-portfolio](https://github.com/Louie-cpu/)
 
 
-- 🌱 I’m currently learning **React,Ruby on Rails and PostGreSQL**
+- 🌱 I’m currently learning **Python 3**
 
 - 🤝 I’m looking for help with [Louies-react-portfolio](https://github.com/Louie-cpu/)
 
