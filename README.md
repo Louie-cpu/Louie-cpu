@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Moreno</h1>
 <h3 align="center">A dedicated Full Stack Web Developer from California</h3>
 
-- 🔭 I’m currently working on  recipe-page-main
+- 🔭 I’m currently working on Expenses Chart Component
 
 
 - 🌱 I’m currently learning **Python 3**
