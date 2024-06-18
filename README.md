@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with [Louies-react-portfolio](https://github.com/Louie-cpu/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js and Ruby**
+- 💬 Ask me about **JavaScript, React.js, TailwindCSS, Node.js and Ruby**
 
 - 📫 How to reach me **luis.u.m779@gmail.com**
 
